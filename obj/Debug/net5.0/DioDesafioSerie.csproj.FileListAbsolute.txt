@@ -5,7 +5,6 @@ E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\bin\Debug\net5.0\DioDesafioSerie
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\bin\Debug\net5.0\DioDesafioSerie.dll
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\bin\Debug\net5.0\ref\DioDesafioSerie.dll
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\bin\Debug\net5.0\DioDesafioSerie.pdb
-E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\DioDesafioSerie.csprojAssemblyReference.cache
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\DioDesafioSerie.GeneratedMSBuildEditorConfig.editorconfig
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\DioDesafioSerie.AssemblyInfoInputs.cache
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\DioDesafioSerie.AssemblyInfo.cs
@@ -14,3 +13,4 @@ E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\DioDesafioSerie
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\ref\DioDesafioSerie.dll
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\DioDesafioSerie.pdb
 E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\DioDesafioSerie.genruntimeconfig.cache
+E:\WorkSpace\DIO - DesafioSerie\DioDesafioSerie\obj\Debug\net5.0\DioDesafioSerie.csprojAssemblyReference.cache
